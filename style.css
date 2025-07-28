@@ -1,0 +1,119 @@
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    background-color: black;
+    
+}
+
+#pizza_image {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+div {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#about_me:hover {
+    opacity: 0.5;
+}
+
+.personal_picture {
+    display: flex;
+    justify-content: center;
+    background-color: lightgreen;
+}
+
+#personal_picture {
+    width: 282px;
+    height: 422px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#description {
+    font-family: Courier;
+    text-align: center;
+}
+
+.family {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#family {
+    width: 150px;
+    height: 75px;
+    
+    
+}
+
+table {
+    color: black;
+}
+
+#random_facts {
+    color: black;
+}
+
+ul {
+    color: black;
+}
+
+#dad {
+    width: 175px;
+    height: 200px;
+}
+
+#mom {
+    width: 175px;
+    height: 200px;
+}
+
+#sister {
+    width: 185px;
+    height: 200px;
+}
+
+#grandparents {
+    width: 175px;
+    height: 200px;
+}
+
+#random_facts {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.family {
+    background-color: lightcoral;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
