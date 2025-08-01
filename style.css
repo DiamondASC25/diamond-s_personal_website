@@ -74,21 +74,29 @@ ul {
 #dad {
     width: 175px;
     height: 200px;
+    border-style: solid;
+    border-radius: 5px;
 }
 
 #mom {
     width: 175px;
     height: 200px;
+    border-style: solid;
+    border-radius: 5px;
 }
 
 #sister {
     width: 185px;
     height: 200px;
+    border-style: solid;
+    border-radius: 5px;
 }
 
 #grandparents {
     width: 175px;
     height: 200px;
+    border-style: solid;
+    border-radius: 5px;
 }
 
 #random_facts {
@@ -101,6 +109,12 @@ ul {
 .family {
     background-color: lightcoral;
 }
+
+#goofy_image:hover {
+    opacity: 0.5;
+}
+
+
 
 
 
